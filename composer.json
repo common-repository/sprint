@@ -1,0 +1,16 @@
+{
+    "name": "sprint/woocommerce",
+    "description": "sprint for woocommerce",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "jaskaran singh",
+            "email": "jaskaran.singh@logixgrid.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Sprint\\":"./includes"}
+    }
+}
